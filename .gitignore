@@ -1,0 +1,19 @@
+# Environment secrets and local infrastructure
+.env
+.env.*
+!.env.example
+
+# Development account credentials must stay outside public Git repositories.
+config/development-accounts.json
+
+# Dependencies, builds and local tooling
+node_modules/
+.next/
+.report-libs/
+.report-venv/
+pgsql/
+pgsql-portable/
+postgres-data/
+*.zip
+*.tsbuildinfo
+*.log

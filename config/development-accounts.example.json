@@ -1,0 +1,14 @@
+{
+  "notice": "Copy this file to development-accounts.json and fill sharedPassword from your local secret store. Do not commit real credentials to public GitHub.",
+  "sharedPassword": "REPLACE_WITH_LOCAL_DEVELOPMENT_PASSWORD",
+  "accounts": [
+    { "id": "citizen", "role": "citizen", "email": "citizen@ecotrace.demo", "dashboard": "/dashboard/citizen" },
+    { "id": "partner", "role": "partner", "email": "partner@ecotrace.demo", "dashboard": "/dashboard/partner" },
+    { "id": "recycler", "role": "recycler", "email": "recycler@ecotrace.demo", "dashboard": "/dashboard/recycler" },
+    { "id": "organization", "role": "organization", "email": "organization@ecotrace.demo", "dashboard": "/dashboard/organization" },
+    { "id": "center_manager", "role": "center_manager", "email": "center@ecotrace.demo", "dashboard": "/dashboard/center" },
+    { "id": "admin", "role": "admin", "email": "admin@ecotrace.demo", "dashboard": "/dashboard/admin" },
+    { "id": "amritsar_customer", "role": "citizen", "email": "amritsar.customer@ecotrace.demo", "dashboard": "/dashboard/citizen" },
+    { "id": "phagwara_customer", "role": "citizen", "email": "phagwara.customer@ecotrace.demo", "dashboard": "/dashboard/citizen" }
+  ]
+}

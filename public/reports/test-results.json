@@ -1,0 +1,384 @@
+{
+  "project": "EcoTrace India",
+  "course": "INT 252 — Web App Development with React JS",
+  "executedAt": "2026-11-21T17:54:59.635Z",
+  "checks": [
+    {
+      "name": "Public page: /",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /marketplace",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /dashboards",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /journey/tablet",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /collection-centers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /impact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /how-it-works",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /docs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /login",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public page: /api/health",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Punjab demo hubs seeded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Phagwara-area sample hubs and platform contact loaded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Tablet journey has all recorded custody milestones",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Real sample recycler processing PDF is downloadable",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public sample product gallery without owner PII",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Photo-backed tablet listing is visible as a sample record",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Chat configuration never discloses the provider key",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public password-free sample login endpoint removed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Multilingual Punjabi chatbot",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Hindi guided chat",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Database-grounded English center guidance",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Vision model or honest multi-device fallback",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Private products require authentication",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "New customer registration persists",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Invalid manual login is denied",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Registered customer logout revokes session",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Registered customer can log back in",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: customer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: customer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: otherCitizen",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: otherCitizen",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: admin",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: admin",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: partner",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: partner",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: recycler",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: recycler",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Manual role login: manager",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Session cookie: manager",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Phagwara sample customer has a credited tablet bill",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Tablet statement shows product image, sample credit and log link",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Customer creates image-backed product listing",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Another citizen cannot accept someone else's offer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Only admin can issue reviewed offer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Administrator issues reviewed INR sandbox offer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Customer accepts offer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Accepted product linked to persistent pickup",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Another citizen cannot view private pickup address",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Public trace redacts street address",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No payout before physical collection and recycling",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Admin assigns active collection partner",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Partner saves measured 2.2 kg; not yet recycled",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Center manager verifies physical collection",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Verified item dispatched into recycler batch",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Recycler confirms gate receipt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Repeated batch receipt prevented",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Recycler starts processing",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Recycling cannot be documented without supporting evidence",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Recycling documented with mass balance and evidence",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Admin prepares quantity-checked settlement",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Admin signs off sandbox settlement",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Customer receives demo wallet credit (no bank transfer)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Duplicate wallet credit blocked",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Customer wallet persists the credited amount",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Printable sandbox statement is owner-accessible",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Another citizen cannot see someone else's settlement",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Chat queries only signed-in customer's demo wallet",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Chat history is private and persisted",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Settlement actions appear in admin audit log",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Role switch redirects to the correct dashboard",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Role switch revokes the old citizen session",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Customer can clear private chat history",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Logout succeeds",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Logout revokes private session",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "result": "PASS",
+  "note": "Sandbox test: no real bank transfer or statutory certificate is created.",
+  "summary": {
+    "total": 74,
+    "passed": 74,
+    "failed": 0
+  }
+}
